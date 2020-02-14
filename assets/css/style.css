@@ -620,6 +620,11 @@ B. Helpers
 .ts-bottom__0 {
     bottom: 0%;
 }
+@media (max-width: 600px) {
+    .ts-bottom__0 {
+        bottom: 21%;
+    }
+}
 
 .ts-bottom__50 {
     bottom: 50%;
